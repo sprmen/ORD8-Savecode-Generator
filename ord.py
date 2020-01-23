@@ -1,5 +1,5 @@
-userid = "meumeu"
-savetime = 5
+userid = "Khang"
+savetime = 99
 A=0
 be = ["" for x in xrange(0, 5)]
 Re = [0 for x in xrange(0, 5)]
@@ -83,4 +83,4 @@ hJ=rJ(be[PI+1])
 E[2]=EJ((hJ+Re[PI+1])*2)
 E[3]=EJ((hJ+Re[PI+1]+ A))
 
-print "Your save code: " + E[1] + "-" + E[2] + "-" + E[3]
+print "sprmen " + E[1] + "-" + E[2] + "-" + E[3]
